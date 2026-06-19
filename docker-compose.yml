@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  revenue-forecaster:
+    build: .
+    container_name: revenue-forecaster-ai
+    ports:
+      - "8000:8000"
+      - "5173:5173"
+    volumes:
+      - ./data:/app/data
+      - ./pickle:/app/pickle
+      - ./output:/app/output
+      - ./logs:/app/logs
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - ENV=production
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  data:
+  pickle:
+  output:
+  logs:

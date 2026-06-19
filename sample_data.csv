@@ -1,0 +1,46 @@
+Date,Channel,Campaign,Campaign Type,Clicks,Impressions,Spend,Conversions,Revenue
+2024-01-01,Google Ads,Brand Campaign,Search,1245,52000,5200,128,26500
+2024-01-01,Meta,Retargeting,Display,856,98000,3100,89,18900
+2024-01-01,Microsoft Ads,Performance,Search,432,21000,2100,45,9800
+2024-01-02,Google Ads,Brand Campaign,Search,1189,49500,5100,121,25200
+2024-01-02,Meta,Retargeting,Display,923,102000,3200,95,20100
+2024-01-02,Microsoft Ads,Performance,Search,456,22000,2200,48,10500
+2024-01-03,Google Ads,Performance Max,Shopping,1567,61000,6200,162,34500
+2024-01-03,Meta,Prospecting,Display,789,89000,2900,82,17800
+2024-01-03,Microsoft Ads,Shopping,Shopping,389,19000,1900,41,8900
+2024-01-04,Google Ads,Brand Campaign,Search,1298,54000,5400,135,28100
+2024-01-04,Meta,Retargeting,Display,901,105000,3300,98,21200
+2024-01-04,Microsoft Ads,Performance,Search,478,23500,2300,51,11200
+2024-01-05,Google Ads,Performance Max,Shopping,1623,63000,6400,168,35900
+2024-01-05,Meta,Prospecting,Display,834,92000,3000,86,18600
+2024-01-05,Microsoft Ads,Shopping,Shopping,412,20000,2000,44,9600
+2024-01-06,Google Ads,Brand Campaign,Search,1134,47000,4900,117,24300
+2024-01-06,Meta,Retargeting,Display,978,108000,3400,102,22100
+2024-01-06,Microsoft Ads,Performance,Search,445,21500,2100,47,10200
+2024-01-07,Google Ads,Performance Max,Shopping,1489,58000,5900,154,32800
+2024-01-07,Meta,Prospecting,Display,756,85000,2800,78,16900
+2024-01-07,Microsoft Ads,Shopping,Shopping,398,19500,1950,42,9200
+2024-01-08,Google Ads,Brand Campaign,Search,1356,56000,5600,141,29300
+2024-01-08,Meta,Retargeting,Display,945,110000,3500,104,22600
+2024-01-08,Microsoft Ads,Performance,Search,489,24000,2400,52,11400
+2024-01-09,Google Ads,Performance Max,Shopping,1678,65000,6600,174,37200
+2024-01-09,Meta,Prospecting,Display,867,95000,3100,90,19500
+2024-01-09,Microsoft Ads,Shopping,Shopping,423,20500,2050,45,9900
+2024-01-10,Google Ads,Brand Campaign,Search,1267,52500,5300,131,27200
+2024-01-10,Meta,Retargeting,Display,912,106000,3350,100,21700
+2024-01-10,Microsoft Ads,Performance,Search,456,22500,2250,48,10600
+2024-01-11,Google Ads,Performance Max,Shopping,1534,60000,6100,159,33900
+2024-01-11,Meta,Prospecting,Display,801,88000,2900,83,18000
+2024-01-11,Microsoft Ads,Shopping,Shopping,401,19800,1980,43,9400
+2024-01-12,Google Ads,Brand Campaign,Search,1423,59000,5900,148,30800
+2024-01-12,Meta,Retargeting,Display,989,112000,3600,109,23600
+2024-01-12,Microsoft Ads,Performance,Search,501,24500,2450,53,11700
+2024-01-13,Google Ads,Performance Max,Shopping,1712,66000,6700,178,38100
+2024-01-13,Meta,Prospecting,Display,878,96000,3150,91,19800
+2024-01-13,Microsoft Ads,Shopping,Shopping,434,21000,2100,46,10100
+2024-01-14,Google Ads,Brand Campaign,Search,1289,53500,5400,134,27800
+2024-01-14,Meta,Retargeting,Display,934,107000,3400,103,22300
+2024-01-14,Microsoft Ads,Performance,Search,467,23000,2300,49,10800
+2024-01-15,Google Ads,Performance Max,Shopping,1601,62500,6350,166,35400
+2024-01-15,Meta,Prospecting,Display,823,91000,3000,85,18400
+2024-01-15,Microsoft Ads,Shopping,Shopping,412,20200,2020,44,9650
