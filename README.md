@@ -549,7 +549,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Email**: parthasarathymathan2911@gmail.com
 
 
-**Project Link**: [https://github.com/yourusername/revenue-forecaster-ai](https://github.com/yourusername/revenue-forecaster-ai)
+**Project Link**: [https://github.com/yourusername/revenue-forecaster-ai](https://github.com/Parthasarathivm/Revenue_firecaster_AI)
 
 ---
 
