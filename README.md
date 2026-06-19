@@ -545,10 +545,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name  
-**Email**: your.email@example.com  
-**Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
-**LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+**Project Maintainer**: PARTHASARATHI V M 
+**Email**: parthasarathymathan2911@gmail.com
+
 
 **Project Link**: [https://github.com/yourusername/revenue-forecaster-ai](https://github.com/yourusername/revenue-forecaster-ai)
 
